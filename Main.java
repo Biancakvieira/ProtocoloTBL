@@ -12,9 +12,7 @@ public class Main {
         System.out.println(protocoloTbl);
 
         System.out.println(protocoloTbl.toString());
-
-
-
+        
 //            CRC8 crc = new CRC8();
 //            crc.reset();
 //            crc.update("test".getBytes());
